@@ -1,0 +1,52 @@
+# Git & GitHub
+.git/
+.github/
+.gitattributes
+.gitignore
+.gitmodules
+
+# System files
+*.sw?
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.idea/
+.vscode/
+*.suo
+*.sln
+*.ntvs*
+*.njsproj
+
+# Dependencies
+node_modules/
+
+# Package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+
+# Testing and coverage
+specs/
+coverage/
+
+# Environment files
+.env
+.env.*
+
+# Documentaion
+docs/
+
+# Temporary files
+.tmp/
+.temp/
+
+# Design project
+.design/

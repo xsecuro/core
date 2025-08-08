@@ -1,0 +1,37 @@
+# System files
+*.sw?
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and editor files
+.idea/
+.vscode/
+*.suo
+*.sln
+*.ntvs*
+*.njsproj
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Testing (not ready) and coverage
+specs/
+coverage/
+
+# Environment files
+.env
+.env.*
+
+# Documentaion
+docs/
+
+# Temporary files
+.tmp/
+.temp/
+
+# Design project
+.design/
