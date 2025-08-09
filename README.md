@@ -7,10 +7,10 @@
 ## The Repository
 
 This is a library that allows you to generate both segmentation passwords and simple ones with fine-tuning of each segment, selection of the generation algorithm and analysis of the final password.
-Anyone who wants to develop this library can integrate it into their project and use it under the open [MIT license](https://github.com/xsecuro/core/blob/main/LICENSE) or use the publicly available [API](https://xsecuro.com/docs/api) of the [xsecuro](https://xsecuro.com) project.
+Anyone who wants to develop this library can integrate it into their project and use it under the open [MIT license](LICENSE) or use the publicly available [API](https://xsecuro.com/docs/api) of the [xsecuro](https://xsecuro.com) project.
 
 ## License
 
-Copyright (c) xsecuro Corporation. All rights reserved.
+Copyright (c) xsecuro corporation. All rights reserved.
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [MIT](LICENSE) license.
