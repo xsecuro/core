@@ -1,7 +1,7 @@
 # @xsecuro/core - Open Source Library
 
 [![CI Status](https://img.shields.io/github/actions/workflow/status/xsecuro/core/manual-release.yml?label=CI)](https://github.com/xsecuro/core/actions)
-[![Version](https://img.shields.io/npm/v/package-name)](https://www.npmjs.com/package/@xsecuro/core)
+[![Version](https://img.shields.io/npm/v/@xsecuro/core)](https://www.npmjs.com/package/@xsecuro/core)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 ## The Repository
