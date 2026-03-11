@@ -1,0 +1,9 @@
+{
+    "$schema": "https://typedoc.org/schema.json",
+    "tsconfig": "tsconfig.typedoc.json",
+    "entryPoints": ["src/index.ts"],
+    "exclude": ["src/analyzer/**/*"],
+    "excludeInternal": true,
+    "gitRevision": "main"
+}
+
